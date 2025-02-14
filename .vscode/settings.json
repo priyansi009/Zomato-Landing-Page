@@ -4,5 +4,6 @@
         "favourite",
         "hampi",
         "hospet"
-    ]
+    ],
+    "git.ignoreLimitWarning": true
 }
