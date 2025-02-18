@@ -6,7 +6,7 @@
 }
 
 .hero__section{
-    background: url(./images/heroSectionBackground.png);
+    background: url(images/heroSectionBackground.png);
     background-size: cover;
     background-position: center;
     color:antiquewhite;
@@ -105,7 +105,7 @@
         min-height: 80vh;
     }
     .hero_section_container{
-        flex-direction: ;
+        flex-direction: column ;
         background-color: transparent;
         width: 100%;
 
@@ -211,22 +211,22 @@ margin: 1.2rem;
 }
 
 .card1{
-    background-image: url('./images/collection1.jpg');
+    background-image: url('images/collection1.jpg');
 
 }
 
 .card2{
-    background-image: url('./images/collection2.jpg');
+    background-image: url('images/collection2.jpg');
     
 }
 
 .card3{
-    background-image: url('./images/collection3.jpg');
+    background-image: url('images/collection3.jpg');
     
 }
 
 .card4{
-    background-image: url('./images/collection4.jpg');
+    background-image: url('images/collection4.jpg');
     
 }
 
